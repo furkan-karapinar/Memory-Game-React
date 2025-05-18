@@ -11,9 +11,8 @@ Bu proje, React ve Tailwind CSS kullanarak geliştirdiğim interaktif bir hafız
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **React**
-- **Tailwind CSS**
-- **Vite**
+- **React** – UI bileşenlerini oluşturmak için
+- **Tailwind CSS** – Hızlı ve modern stil uygulamaları için
 
 ## 📸 Ekran Görüntüleri
 
